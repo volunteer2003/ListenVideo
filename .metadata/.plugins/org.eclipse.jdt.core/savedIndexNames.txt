@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+F:\Android\Floating_window\Floating_window\Floating_window\.metadata\.plugins\org.eclipse.jdt.core
+3417383135.index
+1816150430.index
+2510352897.index

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_show"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Floating Spirit" />
+    
+    <Button
+        android:id="@+id/btn_manual"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="User Manual" />
+    
+    <TextView 
+        android:id="@+id/tv_manual"        
+        android:layout_width="fill_parent"
+  		android:layout_height="wrap_content"/>
+       
+    
+    
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit" />
+
+</LinearLayout>
